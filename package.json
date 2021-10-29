@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Bot telegram untuk menampilkan quote dari anime",
   "scripts": {
-    "app": "node app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
