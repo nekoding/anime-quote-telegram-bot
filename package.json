@@ -1,0 +1,15 @@
+{
+  "name": "anime-quote-bot",
+  "version": "1.0.0",
+  "description": "Bot telegram untuk menampilkan quote dari anime",
+  "scripts": {
+    "app": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grammyjs/parse-mode": "^0.1.3",
+    "grammy": "^1.3.4"
+  }
+}
